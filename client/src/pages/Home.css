@@ -1,0 +1,19 @@
+/* src/pages/Home.css */
+.home {
+    padding: 20px;
+}
+
+.banner {
+    background-color: #f8f8f8;
+    height: 200px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
