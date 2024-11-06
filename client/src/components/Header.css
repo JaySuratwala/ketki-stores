@@ -1,0 +1,15 @@
+/* src/styles/Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #ff6f61;
+    color: white;
+}
+
+.header nav a {
+    margin: 0 1rem;
+    color: white;
+    text-decoration: none;
+}
